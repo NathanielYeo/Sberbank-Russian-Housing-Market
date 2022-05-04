@@ -7,5 +7,6 @@ https://www.kaggle.com/competitions/sberbank-russian-housing-market/overview
 
 
 ## Files
-###Prediction CSV: Contains the final output for submission
-###Source Code: Contains project source codes
+Prediction CSV: Contains the final output for submission
+
+Source Code: Contains project source codes
